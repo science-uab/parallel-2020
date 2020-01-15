@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .bg {
+        background-color: burlywood;
+        color: blue;
+        margin: 20px;
+        padding: 20px; 
+      }
+      </style>
+  </head>
+<body class="bg">
+<div style="text-align:center">
+<p>Count numbers: <output id="result"></output></p>
+<button onclick="startWorker()">Start Worker</button> 
+<button onclick="stopWorker()">Stop Worker</button>
+</div>
+<script>
+var w;
+function startWorker() {
+  if(typeof(Worker) !== "undefined") {
+    if(typeof(w) == "undefined") {
+      w = new Worker("count_workers.js");
+    }
+    w.onmessage = function(event) {
+      document.getElementById("result").innerHTML = event.data;
+    };
+  } else {
+    document.getElementById("result").innerHTML = "";
+  }
+}
+
+function stopWorker() { 
+  w.terminate();
+  w = undefined;
+}
+</script>
+
+</body>
+</html>
