@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\bin\Debug\ProiectICLP.exe.config
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\bin\Debug\ProiectICLP.exe
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\bin\Debug\ProiectICLP.pdb
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.Form1.resources
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.Properties.Resources.resources
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.exe
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.pdb
+C:\Users\User\Desktop\ProiectICLP\ProiectICLP\obj\Debug\ProiectICLP.csprojAssemblyReference.cache
