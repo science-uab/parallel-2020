@@ -1,0 +1,9 @@
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\bin\Debug\StarFinder.exe.config
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\bin\Debug\StarFinder.exe
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\bin\Debug\StarFinder.pdb
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.csprojAssemblyReference.cache
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.Form1.resources
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.Properties.Resources.resources
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.csproj.GenerateResource.cache
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.exe
+E:\PROJECTS\Proiecte Universitate\Masterat\ANL I\ICILP\StarFinder\StarFinder\obj\Debug\StarFinder.pdb
