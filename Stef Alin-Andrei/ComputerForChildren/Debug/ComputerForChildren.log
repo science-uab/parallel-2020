@@ -1,0 +1,7 @@
+﻿  ComputerForChildren.cpp
+C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\ComputerForChildren\ComputerForChildren.cpp(544,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\ComputerForChildren\ComputerForChildren.cpp(554,19): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\ComputerForChildren\ComputerForChildren.cpp(563,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\ComputerForChildren\ComputerForChildren.cpp(647,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\ComputerForChildren\ComputerForChildren.cpp(660,21): warning C4018: '<': signed/unsigned mismatch
+  ComputerForChildren.vcxproj -> C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\Debug\ComputerForChildren.exe

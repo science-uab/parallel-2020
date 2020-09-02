@@ -1,0 +1,10 @@
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\bin\Debug\threads.exe
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\bin\Debug\threads.pdb
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.Form1.resources
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.exe
+c:\users\denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.pdb
+C:\Users\Denis\documents\visual studio 2010\Projects\threads\threads\obj\x86\Debug\threads.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\Gabi\threads\threads\obj\x86\Debug\threads.exe
+C:\Users\Denis\Desktop\Gabi\threads\threads\obj\x86\Debug\threads.pdb

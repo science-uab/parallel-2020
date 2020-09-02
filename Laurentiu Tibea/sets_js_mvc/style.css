@@ -1,0 +1,39 @@
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+    background: linear-gradient(to right, #7ec1ff93, rgb(100, 181, 246)) rgb(255, 255, 255) !important;
+    
+}
+
+.text_area{
+    height: 200px;
+    background-color: rgba(255,255,255,0.3);
+    resize: none;
+}
+
+.sets{
+    height: 200px;
+    background-color: rgba(255,255,255,0.3);
+    resize: none;
+}
+
+.input_values{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.result{
+    max-height: 250px;
+    overflow: hidden;
+}
+
+#result_container{
+    display: none;
+}
+
+h1,h5{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}

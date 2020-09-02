@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarFinder", "StarFinder\StarFinder.csproj", "{B4105440-A905-4E2F-8B5F-34BD2CDD5CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4105440-A905-4E2F-8B5F-34BD2CDD5CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4105440-A905-4E2F-8B5F-34BD2CDD5CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4105440-A905-4E2F-8B5F-34BD2CDD5CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4105440-A905-4E2F-8B5F-34BD2CDD5CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC56521D-EEBC-4D8D-9526-4C6412B81D71}
+	EndGlobalSection
+EndGlobal

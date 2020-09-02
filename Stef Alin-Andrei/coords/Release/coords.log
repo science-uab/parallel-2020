@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\Release\coords.lib and object C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\Release\coords.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  coords.vcxproj -> C:\Users\stefa\OneDrive\Desktop\PABD 1\Sem 1\Implementarea concurentei in limbajele de programare\ComputerForChildren\Release\coords.dll
