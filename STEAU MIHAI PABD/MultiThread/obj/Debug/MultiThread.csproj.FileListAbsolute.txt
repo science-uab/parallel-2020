@@ -1,0 +1,10 @@
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.csprojAssemblyReference.cache
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.Form1.resources
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.Properties.Resources.resources
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.GenerateResource.cache
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.pdb
+C:\xampp\htdocs\Proiecte-Examen\Implementarea concurentei in limbaje de programare\MultiThread\MultiThread\obj\Debug\MultiThread.Form3.resources

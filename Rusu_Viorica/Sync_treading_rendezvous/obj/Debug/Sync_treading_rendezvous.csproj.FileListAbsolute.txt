@@ -1,0 +1,7 @@
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\bin\Debug\Sync_treading_rendezvous.exe.config
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\bin\Debug\Sync_treading_rendezvous.exe
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\bin\Debug\Sync_treading_rendezvous.pdb
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\obj\Debug\Sync_treading_rendezvous.csprojAssemblyReference.cache
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\obj\Debug\Sync_treading_rendezvous.csproj.CoreCompileInputs.cache
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\obj\Debug\Sync_treading_rendezvous.exe
+C:\Users\vicky\source\repos\Sync_treading_rendezvous\Sync_treading_rendezvous\obj\Debug\Sync_treading_rendezvous.pdb
