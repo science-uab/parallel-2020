@@ -1,0 +1,22 @@
+﻿  ComputerForChildren.cpp
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(544,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(554,19): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(563,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(572,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(807,46): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(814,44): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(821,44): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(828,48): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(835,46): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(842,46): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(849,44): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(856,48): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(863,48): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(870,46): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(877,54): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(884,54): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(891,58): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(898,52): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(905,48): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\ComputerForChildren\ComputerForChildren.cpp(912,48): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+  ComputerForChildren.vcxproj -> C:\Users\stefa\OneDrive\Desktop\Stef Alin-Andrei\x64\Debug\ComputerForChildren.exe
