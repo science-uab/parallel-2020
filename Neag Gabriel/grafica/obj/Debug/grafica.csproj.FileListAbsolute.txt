@@ -1,0 +1,10 @@
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.csprojAssemblyReference.cache
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.Form1.resources
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.Properties.Resources.resources
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.csproj.GenerateResource.cache
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\grafica\grafica\bin\Debug\grafica.exe.config
+C:\Users\gabriel\source\repos\grafica\grafica\bin\Debug\grafica.exe
+C:\Users\gabriel\source\repos\grafica\grafica\bin\Debug\grafica.pdb
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.exe
+C:\Users\gabriel\source\repos\grafica\grafica\obj\Debug\grafica.pdb
